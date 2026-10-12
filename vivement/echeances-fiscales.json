@@ -1,0 +1,8 @@
+{
+"couvreJusquA": "2026-12-31",
+"echeances": [
+{"nom": "Taxe foncière (paiement)", "date": "2026-10-15"},
+{"nom": "Taxe d'habitation résidences secondaires", "date": "2026-12-15"},
+{"nom": "CFE (paiement)", "date": "2026-12-15"}
+]
+}

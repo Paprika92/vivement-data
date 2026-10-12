@@ -1,0 +1,143 @@
+{
+"couvreJusquA": "2027-09-01",
+"zones": {
+"A": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-18","fin":"2025-11-02"},
+{"nom":"Vacances de Noël","debut":"2025-12-20","fin":"2026-01-04"},
+{"nom":"Vacances d'hiver","debut":"2026-02-07","fin":"2026-02-22"},
+{"nom":"Vacances de printemps","debut":"2026-04-04","fin":"2026-04-19"},
+{"nom":"Pont de l'Ascension","debut":"2026-05-14","fin":"2026-05-17"},
+{"nom":"Vacances d'été","debut":"2026-07-04","fin":"2026-08-31"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-17","fin":"2026-11-01"},
+{"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
+{"nom":"Vacances d'hiver","debut":"2027-02-13","fin":"2027-02-28"},
+{"nom":"Vacances de printemps","debut":"2027-04-10","fin":"2027-04-25"},
+{"nom":"Vacances d'été","debut":"2027-07-03","fin":"2027-09-01"}
+],
+"B": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-18","fin":"2025-11-02"},
+{"nom":"Vacances de Noël","debut":"2025-12-20","fin":"2026-01-04"},
+{"nom":"Vacances d'hiver","debut":"2026-02-14","fin":"2026-03-01"},
+{"nom":"Vacances de printemps","debut":"2026-04-11","fin":"2026-04-26"},
+{"nom":"Pont de l'Ascension","debut":"2026-05-14","fin":"2026-05-17"},
+{"nom":"Vacances d'été","debut":"2026-07-04","fin":"2026-08-31"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-17","fin":"2026-11-01"},
+{"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
+{"nom":"Vacances d'hiver","debut":"2027-02-20","fin":"2027-03-07"},
+{"nom":"Vacances de printemps","debut":"2027-04-17","fin":"2027-05-02"},
+{"nom":"Vacances d'été","debut":"2027-07-03","fin":"2027-09-01"}
+],
+"C": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-18","fin":"2025-11-02"},
+{"nom":"Vacances de Noël","debut":"2025-12-20","fin":"2026-01-04"},
+{"nom":"Vacances d'hiver","debut":"2026-02-21","fin":"2026-03-08"},
+{"nom":"Vacances de printemps","debut":"2026-04-18","fin":"2026-05-03"},
+{"nom":"Pont de l'Ascension","debut":"2026-05-14","fin":"2026-05-17"},
+{"nom":"Vacances d'été","debut":"2026-07-04","fin":"2026-08-31"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-17","fin":"2026-11-01"},
+{"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
+{"nom":"Vacances d'hiver","debut":"2027-02-06","fin":"2027-02-21"},
+{"nom":"Vacances de printemps","debut":"2027-04-03","fin":"2027-04-18"},
+{"nom":"Vacances d'été","debut":"2027-07-03","fin":"2027-09-01"}
+],
+"Corse": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-18","fin":"2025-11-02"},
+{"nom":"Vacances de Noël","debut":"2025-12-20","fin":"2026-01-04"},
+{"nom":"Vacances d'hiver","debut":"2026-02-14","fin":"2026-03-01"},
+{"nom":"Vacances de printemps","debut":"2026-04-11","fin":"2026-04-26"},
+{"nom":"Vacances d'été","debut":"2026-07-04","fin":"2026-09-02"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-17","fin":"2026-11-01"},
+{"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
+{"nom":"Vacances d'hiver","debut":"2027-02-13","fin":"2027-02-28"},
+{"nom":"Vacances de printemps","debut":"2027-04-10","fin":"2027-04-25"},
+{"nom":"Pont de l'Ascension","debut":"2027-05-07","fin":"2027-05-09"}
+],
+"Guadeloupe": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-18","fin":"2025-11-02"},
+{"nom":"Vacances de Noël","debut":"2025-12-20","fin":"2026-01-04"},
+{"nom":"Vacances de Carnaval","debut":"2026-02-07","fin":"2026-02-22"},
+{"nom":"Vacances de Pâques","debut":"2026-04-02","fin":"2026-04-19"},
+{"nom":"Vacances d'été","debut":"2026-07-04","fin":"2026-08-31"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-17","fin":"2026-11-02"},
+{"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
+{"nom":"Vacances de Carnaval","debut":"2027-02-06","fin":"2027-02-21"},
+{"nom":"Vacances de Pâques","debut":"2027-03-25","fin":"2027-04-11"}
+],
+"Guyane": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-18","fin":"2025-11-02"},
+{"nom":"Vacances de Noël","debut":"2025-12-20","fin":"2026-01-04"},
+{"nom":"Vacances de Carnaval","debut":"2026-02-07","fin":"2026-02-22"},
+{"nom":"Vacances de Pâques","debut":"2026-04-01","fin":"2026-04-15"},
+{"nom":"Pont de l'Ascension","debut":"2026-05-14","fin":"2026-05-17"},
+{"nom":"Vacances d'été","debut":"2026-07-04","fin":"2026-08-31"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-17","fin":"2026-11-02"},
+{"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
+{"nom":"Vacances de Carnaval","debut":"2027-02-06","fin":"2027-02-17"},
+{"nom":"Vacances de Pâques","debut":"2027-03-25","fin":"2027-04-11"},
+{"nom":"Pont de l'Ascension","debut":"2027-04-29","fin":"2027-05-09"}
+],
+"Martinique": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-18","fin":"2025-11-02"},
+{"nom":"Vacances de Noël","debut":"2025-12-20","fin":"2026-01-04"},
+{"nom":"Vacances de Carnaval","debut":"2026-02-07","fin":"2026-02-22"},
+{"nom":"Vacances de Pâques","debut":"2026-04-02","fin":"2026-04-19"},
+{"nom":"Pont de l'Ascension","debut":"2026-05-14","fin":"2026-05-17"},
+{"nom":"Vacances d'été","debut":"2026-07-04","fin":"2026-08-31"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-20","fin":"2026-11-02"},
+{"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
+{"nom":"Vacances de Carnaval","debut":"2027-02-06","fin":"2027-02-21"},
+{"nom":"Vacances de Pâques","debut":"2027-03-24","fin":"2027-03-31"},
+{"nom":"Pont de l'Ascension","debut":"2027-05-06","fin":"2027-05-09"}
+],
+"Mayotte": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-11","fin":"2025-10-26"},
+{"nom":"Vacances de Noël","debut":"2025-12-13","fin":"2026-01-11"},
+{"nom":"Vacances de Carnaval","debut":"2026-02-28","fin":"2026-03-08"},
+{"nom":"Vacances de printemps","debut":"2026-04-30","fin":"2026-05-17"},
+{"nom":"Vacances d'été","debut":"2026-07-04","fin":"2026-08-23"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-10","fin":"2026-10-25"},
+{"nom":"Vacances de Noël","debut":"2026-12-12","fin":"2027-01-10"},
+{"nom":"Vacances de Carnaval","debut":"2027-02-20","fin":"2027-03-07"},
+{"nom":"Vacances de printemps","debut":"2027-04-30","fin":"2027-05-17"},
+{"nom":"Vacances d'été","debut":"2027-07-10","fin":"2027-08-22"}
+],
+"Polynésie": [
+{"nom":"Vacances de Septembre","debut":"2025-09-13","fin":"2025-09-21"},
+{"nom":"Vacances de Novembre","debut":"2025-10-25","fin":"2025-11-09"},
+{"nom":"Vacances de Noël","debut":"2025-12-13","fin":"2026-01-11"},
+{"nom":"Vacances de Février","debut":"2026-02-14","fin":"2026-02-22"},
+{"nom":"Vacances de Pâques","debut":"2026-03-28","fin":"2026-04-12"},
+{"nom":"Vacances de Mai","debut":"2026-05-23","fin":"2026-05-31"},
+{"nom":"Vacances de Septembre","debut":"2026-09-12","fin":"2026-09-20"},
+{"nom":"Vacances de Novembre","debut":"2026-10-24","fin":"2026-11-08"},
+{"nom":"Vacances de Noël","debut":"2026-12-12","fin":"2027-01-10"},
+{"nom":"Vacances de Février","debut":"2027-02-13","fin":"2027-02-21"},
+{"nom":"Vacances de Pâques","debut":"2027-03-27","fin":"2027-04-11"},
+{"nom":"Vacances de Mai","debut":"2027-05-15","fin":"2027-05-23"}
+],
+"Réunion": [
+{"nom":"Vacances après 1ère période","debut":"2025-10-11","fin":"2025-10-26"},
+{"nom":"Vacances d'été austral","debut":"2025-12-19","fin":"2026-01-20"},
+{"nom":"Vacances après 3ème période","debut":"2026-02-28","fin":"2026-03-15"},
+{"nom":"Vacances après 4ème période","debut":"2026-05-02","fin":"2026-05-17"},
+{"nom":"Vacances d'hiver austral","debut":"2026-07-04","fin":"2026-08-17"},
+{"nom":"Vacances après 1ère période","debut":"2026-10-10","fin":"2026-10-25"},
+{"nom":"Vacances d'été austral","debut":"2026-12-19","fin":"2027-01-31"},
+{"nom":"Vacances après 3ème période","debut":"2027-03-16","fin":"2027-03-29"},
+{"nom":"Vacances après 4ème période","debut":"2027-05-05","fin":"2027-05-18"}
+],
+"Saint Pierre et Miquelon": [
+{"nom":"Vacances de la Toussaint","debut":"2025-10-21","fin":"2025-11-02"},
+{"nom":"Vacances de Noël","debut":"2025-12-19","fin":"2026-01-04"},
+{"nom":"Vacances d'hiver","debut":"2026-02-13","fin":"2026-03-01"},
+{"nom":"Vacances de printemps","debut":"2026-04-10","fin":"2026-04-26"},
+{"nom":"Pont de l'Ascension","debut":"2026-05-13","fin":"2026-05-17"},
+{"nom":"Vacances d'été","debut":"2026-07-02","fin":"2026-09-01"},
+{"nom":"Vacances de la Toussaint","debut":"2026-10-20","fin":"2026-11-01"},
+{"nom":"Vacances de Noël","debut":"2026-12-18","fin":"2027-01-03"},
+{"nom":"Vacances d'hiver","debut":"2027-02-19","fin":"2027-03-07"},
+{"nom":"Vacances de printemps","debut":"2027-04-16","fin":"2027-05-02"},
+{"nom":"Pont de l'Ascension","debut":"2027-05-05","fin":"2027-05-09"}
+]
+}
+}

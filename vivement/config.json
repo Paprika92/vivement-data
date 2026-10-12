@@ -1,0 +1,22 @@
+{
+  "minVersion": "1.0.0",
+  "featureFlags": {},
+  "messageAccueil": "",
+  "donnees": {
+    "vacances": {
+      "fichier": "vacances.json",
+      "version": 1,
+      "couvreJusquA": "2027-09-01"
+    },
+    "echeances-fiscales": {
+      "fichier": "echeances-fiscales.json",
+      "version": 1,
+      "couvreJusquA": "2026-12-31"
+    },
+    "dates-conso": {
+      "fichier": "dates-conso.json",
+      "version": 1,
+      "couvreJusquA": "2027-12-31"
+    }
+  }
+}
