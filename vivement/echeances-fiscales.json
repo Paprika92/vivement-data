@@ -1,8 +1,12 @@
 {
-"couvreJusquA": "2026-12-31",
+"couvreJusquA": "2027-12-31",
 "echeances": [
 {"nom": "Taxe foncière (paiement)", "date": "2026-10-15"},
 {"nom": "Taxe d'habitation résidences secondaires", "date": "2026-12-15"},
-{"nom": "CFE (paiement)", "date": "2026-12-15"}
+{"nom": "CFE (paiement)", "date": "2026-12-15"},
+{"nom": "Solde impôt sur le revenu", "date": "2027-09-25"},
+{"nom": "Taxe foncière (paiement)", "date": "2027-10-15"},
+{"nom": "Taxe d'habitation résidences secondaires", "date": "2027-12-15"},
+{"nom": "CFE (paiement)", "date": "2027-12-15"}
 ]
 }
