@@ -12,6 +12,7 @@
 {"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
 {"nom":"Vacances d'hiver","debut":"2027-02-13","fin":"2027-02-28"},
 {"nom":"Vacances de printemps","debut":"2027-04-10","fin":"2027-04-25"},
+{"nom":"Pont de l'Ascension","debut":"2027-05-06","fin":"2027-05-09"},
 {"nom":"Vacances d'été","debut":"2027-07-03","fin":"2027-09-01"}
 ],
 "B": [
@@ -25,6 +26,7 @@
 {"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
 {"nom":"Vacances d'hiver","debut":"2027-02-20","fin":"2027-03-07"},
 {"nom":"Vacances de printemps","debut":"2027-04-17","fin":"2027-05-02"},
+{"nom":"Pont de l'Ascension","debut":"2027-05-06","fin":"2027-05-09"},
 {"nom":"Vacances d'été","debut":"2027-07-03","fin":"2027-09-01"}
 ],
 "C": [
@@ -38,6 +40,7 @@
 {"nom":"Vacances de Noël","debut":"2026-12-19","fin":"2027-01-03"},
 {"nom":"Vacances d'hiver","debut":"2027-02-06","fin":"2027-02-21"},
 {"nom":"Vacances de printemps","debut":"2027-04-03","fin":"2027-04-18"},
+{"nom":"Pont de l'Ascension","debut":"2027-05-06","fin":"2027-05-09"},
 {"nom":"Vacances d'été","debut":"2027-07-03","fin":"2027-09-01"}
 ],
 "Corse": [

@@ -5,7 +5,7 @@
   "donnees": {
     "vacances": {
       "fichier": "vacances.json",
-      "version": 2,
+      "version": 3,
       "couvreJusquA": "2027-09-01"
     },
     "echeances-fiscales": {
